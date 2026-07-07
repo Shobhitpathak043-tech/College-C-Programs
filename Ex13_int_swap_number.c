@@ -2,10 +2,10 @@
 int main()
 {
     int a, b, c;
-    printf("enter two numbers");
+    printf("Enter two numbers");
     scanf("%d%d",&a,&b);
     
-    printf("Before swapping:\n");
+    printf("\nBefore swapping:\n");
     printf("a = %d\nb = %d",a,b);
     c=a;
     a=b;
