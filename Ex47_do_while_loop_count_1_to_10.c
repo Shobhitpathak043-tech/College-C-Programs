@@ -2,13 +2,13 @@
  int main()
 {
     int i;
-    i = 6;
+    i = 1;
     do
     {
         printf("%d", i);
         i++;
     }
-    while(i <= 9);
+    while(i <= 10);
 
     return 0;
 }
